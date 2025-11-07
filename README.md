@@ -1,3 +1,6 @@
+
+![Image Alt](https://github.com/Code-amar/Zomato-Expansion-of-Restaurants-Globally-Spreadsheet-Project/blob/main/Dashboard%20Image.png?raw=true)
+
 Project Overview: Zomato Global Expansion Strategy
 
 This project focuses on formulating a data-driven strategy for Zomato’s international expansion by identifying optimal locations for new restaurant establishments. The initiative combines data analysis, strategic planning, and actionable recommendations to guide Zomato’s growth into new global markets.
